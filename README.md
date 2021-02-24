@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**ErickValdez26/ErickValdez26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Graduated from <a href="https://www.senati.edu.pe/">SENATI</a>, in the Software Development career. 😊</br>
+</em></p>
 
-Here are some ideas to get you started:
+```js
+const noks1i = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Java, Kotlin],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer", "Firebase"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["recently graduated student, open to job opportunities"],
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me:
+- [Twitter](https://twitter.com/erizap26)
+- [Instagram](https://www.instagram.com/erick.valdez/)
