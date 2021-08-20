@@ -6,19 +6,19 @@
 ```js
 const noks1i = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java, Kotlin],
+   code: [Javascript, Typescript, Java, Kotlin, Swift, Dart],
    technologies: {
       frontEnd: {
          js: ["React"],
          css: ["Bootstrap", "Material Design"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "TypeORM"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", "Firebase"],
-      mobile: ["Android"]
+      databases: ["MongoDB", "mySQL", "SQLServer", "Firebase", "Postgres"],
+      mobile: ["Android", "IOs", "Hybrids"]
    },
-   currentOccupation: ["recently graduated student, open to job opportunities"],
+   currentOccupation: ["Android developer at Globo Azul"],
 };
 ```
 
